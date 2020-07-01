@@ -1,0 +1,39 @@
+{
+  "users": [
+    {
+      "id": "0x3D1C5062593fE4F510CB2b6330Cbd5681ff8b835",
+      "name": "Jesus Garcia Ovejero",
+      "username": "jesus2",
+      "userAddress": "0x3D1C5062593fE4F510CB2b6330Cbd5681ff8b835",
+      "email": "jesus@email.com"
+    },
+    {
+      "id": "0xab02d613Af710d249d084c9b649E83DdfbEaF55a",
+      "name": "Admin admin",
+      "username": "admin",
+      "userAddress": "0xab02d613Af710d249d084c9b649E83DdfbEaF55a",
+      "email": "admin@admin"
+    },
+    {
+      "id": "0x2da138E3039Fae35faC80bb899C04A1b33da03A6",
+      "name": "Jesus Garcia Ovejero",
+      "username": "jesus3",
+      "userAddress": "0x2da138E3039Fae35faC80bb899C04A1b33da03A6",
+      "email": "jesus3@email"
+    },
+    {
+      "id": "0xF5aBa703B29CA17766910680e784b0B8b75dC5b3",
+      "username": "jesus",
+      "name": "jesushjhjh",
+      "email": "h@hh",
+      "password": "123456"
+    },
+    {
+      "id": "0x4430DD8f5636899409936fE45383d1A1581cD52c",
+      "username": "usuario",
+      "name": "usuario",
+      "email": "usuario@gmail.com",
+      "password": "123456"
+    }
+  ]
+}

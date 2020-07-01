@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "id": "0xab02d613Af710d249d084c9b649E83DdfbEaF55a",
+      "name": "Admin admin",
+      "username": "admin",
+      "userAddress": "0xab02d613Af710d249d084c9b649E83DdfbEaF55a",
+      "email": "admin@admin"
+    },
+    {
+      "id": "0x4430DD8f5636899409936fE45383d1A1581cD52c",
+      "username": "usuario",
+      "name": "usuario",
+      "email": "usuario@gmail.com",
+      "password": "123456"
+    }
+  ]
+}
